@@ -4,13 +4,10 @@
     ///<reference path="typings/jquery.d.ts"/>
     ///<reference path="typings/underscore.d.ts"/>
 
-
-
 module crawltext{
     export class CrawlText{
         data:string;
         private timer:number;
-
         //////test
         private test:number[]=[1,10,2,5];
         private count:number=0;
